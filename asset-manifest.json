@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ebay-fees-calculator/static/css/main.17999239.css",
+    "main.js": "/ebay-fees-calculator/static/js/main.3a03b08c.js",
+    "static/js/787.653b3085.chunk.js": "/ebay-fees-calculator/static/js/787.653b3085.chunk.js",
+    "index.html": "/ebay-fees-calculator/index.html",
+    "main.17999239.css.map": "/ebay-fees-calculator/static/css/main.17999239.css.map",
+    "main.3a03b08c.js.map": "/ebay-fees-calculator/static/js/main.3a03b08c.js.map",
+    "787.653b3085.chunk.js.map": "/ebay-fees-calculator/static/js/787.653b3085.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17999239.css",
+    "static/js/main.3a03b08c.js"
+  ]
+}
